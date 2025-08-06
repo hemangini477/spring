@@ -1,6 +1,6 @@
 package com.rmk.model;
 
-import javax.annotation.Generated;
+//import javax.annotation.Generated;
 import javax.persistence.*;
 import java.io.Serializable;
 
